@@ -1,0 +1,1 @@
+clear; g++ -std=c++11 FT_bakery.cpp myProgram.cpp a02ex00.cpp a02ex01_a.cpp a02ex03_a.cpp a02ex03_b.cpp a02ex03_c.cpp a02ex03_d.cpp a02ex03_e.cpp beer.cpp budweiser.cpp cheese.cpp corona.cpp cottagecheese.cpp ham.cpp heineken.cpp liquid.cpp water.cpp soda.cpp skol.cpp mortadella.cpp milk.cpp -o ft_bak.exe; ./ft_bak.exe
